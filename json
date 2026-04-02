@@ -1,0 +1,14 @@
+{
+  "tweet_id": 190273,
+  "impressions": 47,
+  "engagement_ratio": "volatile",
+  "interaction_spread": "narrow",
+  "reply_latency": "extended"
+}
+{
+  "tweet_id": 190273,
+  "impressions": 612,
+  "engagement_ratio": "normalized",
+  "interaction_spread": "widened",
+  "reply_latency": "stable"
+}
